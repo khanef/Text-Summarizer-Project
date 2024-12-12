@@ -5,16 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc5becc3-323f-4a5d-b0f2-d93b0ff79837" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/params.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/params.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requiments.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requiments.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/research/01_data_ingestion.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/research/01_data_ingestion.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/research/02_data_validation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/research/02_data_validation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/research/text_Summarization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/research/text_Summarization.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/research/trials.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/research/trials.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/textSummarizer/constants/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/textSummarizer/constants/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/textSummarizer/logging/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/textSummarizer/logging/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/textSummarizer/utils/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/textSummarizer/utils/common.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/textSummarizer/config/configuration.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/textSummarizer/config/configuration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/textSummarizer/entity/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/textSummarizer/entity/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,13 +32,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/khang/Khang/demo"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/khang/Khang/demo&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -56,5 +56,16 @@
       <updated>1733730505345</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
